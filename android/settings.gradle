@@ -1,0 +1,3 @@
+rootProject.name = 'Demo_project_code_push'
+
+include ':app'
